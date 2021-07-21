@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Noterin"
 include ':app'
+include ':core'
